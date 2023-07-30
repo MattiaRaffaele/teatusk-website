@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@500&display=swap');
+
+.centerDiv{
+    text-align: center;
+    margin-top: 200px;
+    margin-right: 500px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+}
+
+.title{
+    font-size: 150px;
+    font-family: 'Cookie', cursive;
+    margin: 0;
+}
+
+body{
+    background-color: #f6f7f8;
+    font-size: 15px;
+    margin: 0;
+}
+
+.buttonLeft{
+    text-align: left;
+}
+
+
+.buttonRight{
+    text-align: right;
+}
+
+.btnContainer{
+    margin: 20px;
+    gap: 50%;
+}
+
+.codeText{
+    font-family: 'Source Code Pro', monospace;
+    font-size: large;
+    margin: 0;
+}
+
+button{
+    border-radius: 10px;
+    background: #011627;
+    border: none;
+    color: #f6f7f8;
+    width: 100px;
+    height: 40px;
+    padding: 5px;
+    text-align: center;
+    font-family: Inter; 
+    margin: 5px;
+}
+
+buttonText{
+    font-family: Inter;
+    color: #f6f7f8;
+    text-align: center;
+}
+
+#Tea{
+    color: #ff3366; 
+}
+
+#Tusk{
+    color: #011627; 
+}
+
+#navbar{
+    font-family: Inter;
+    height: 50px;
+    border: 5px solid green;
+    margin: 10px;
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    gap: 7px;
+}
+
+.navbarText{
+    font-family: Inter;
+    color: #011627;
+    font-weight: lighter;
+    font-size: 20px;
+    margin: 0;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.contentDiv{
+    background-color: #011627;
+    text-align: left;
+    color: #f6f7f8;
+    margin-top: 20px;
+    padding: 20px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#sottotitolo{
+    font-family: Cookie , cursive;
+    color: #011627;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
