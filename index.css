@@ -113,14 +113,15 @@ li {
     position: fixed;
 }
 
-#verticalLine{
+.verticalLine{
     width: 2px;
     background-color: #011627;
     margin-left: 35px;
-
-    height: 1px;
-
-    transition: height 2s;
-
-    height: max-content;
+    position: absolute;
+    height: 10px;
 }
+
+p1{
+    
+}
+    
